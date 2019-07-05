@@ -1,0 +1,4 @@
+selenium>=3.14.0
+PyVirtualDisplay>=0.2.1
+pymongo>=3.7.1
+PyMySQL>=0.9.2
