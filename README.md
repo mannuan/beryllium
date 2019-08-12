@@ -2,6 +2,12 @@
 
 This is beryllium package. You can use [beryllium](https://github.com/mannuan/beryllium/) to write your lean.
 
+# Installation
+
+```bash
+pip install beryllium
+```
+
 ## Beryllium Demo
 ```python
 # -*- coding: utf-8 -*-

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: beryllium
-Version: 1.0.3
+Version: 1.0.4
 Summary: A framework for spider over selenium
 Home-page: https://github.com/mannuan/beryllium
 Author: mannuan
@@ -9,6 +9,12 @@ License: UNKNOWN
 Description: # Beryllium Package
         
         This is beryllium package. You can use [beryllium](https://github.com/mannuan/beryllium/) to write your lean.
+        
+        # Installation
+        
+        ```bash
+        pip install beryllium
+        ```
         
         ## Beryllium Demo
         ```python

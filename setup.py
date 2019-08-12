@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="beryllium",
-    version="1.0.3",
+    version="1.0.4",
     author="mannuan",
     author_email="1271990125@qq.com",
     description="A framework for spider over selenium",
